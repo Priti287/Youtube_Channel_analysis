@@ -1,4 +1,4 @@
-# Youtube_Channel_analysis
+# Youtube_Channel_Analysis
 
 YouTube Channel Analysis is the process of extracting, processing, and visualizing data related to a YouTube channel's performance, videos, audience engagement, and trends.
 Using Python, the analysis typically leverages the YouTube Data API and libraries like pandas, matplotlib, seaborn, and others to retrieve and analyze metrics such as views, likes, comments, watch time, and subscriber growth.
