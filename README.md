@@ -3,7 +3,7 @@
 YouTube Channel Analysis is the process of extracting, processing, and visualizing data related to a YouTube channel's performance, videos, audience engagement, and trends.
 Using Python, the analysis typically leverages the YouTube Data API and libraries like pandas, matplotlib, seaborn, and others to retrieve and analyze metrics such as views, likes, comments, watch time, and subscriber growth.
 
-#Objective
+#Objective-
 
 The primary objectives of a YouTube Channel Analysis in Python are:
 
@@ -12,7 +12,8 @@ The primary objectives of a YouTube Channel Analysis in Python are:
 - Audience Insights: Gain insights into audience behavior, including demographic information, peak engagement times, and preferences.
 - Growth Analysis: Monitor trends in subscriber growth, viewership patterns, and engagement rates to forecast future performance.
 
-#End Result
+#End Result-
+
 A detailed report or interactive dashboard containing:
 
 - Channel Overview: Summary of channel performance, including growth metrics and engagement scores.
